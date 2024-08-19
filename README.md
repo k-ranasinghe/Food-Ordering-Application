@@ -1,7 +1,7 @@
 # Overview
 
 This is a full stack application built using React, Express and MongoDB where customers can 
-order food items and pay online to complete order.
+order food items and pay online to complete order. Stripe was integrated as payment gateway.
 
 ## Home Page
 Customer can view the menu in the home page. By pressing the add/remove buttons they can 
